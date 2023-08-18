@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "custom_map", "custom_map\custom_map.vcxproj", "{793B4EF3-1A82-45AC-8819-D55C66B5E780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{793B4EF3-1A82-45AC-8819-D55C66B5E780}.Debug|x64.ActiveCfg = Debug|x64
+		{793B4EF3-1A82-45AC-8819-D55C66B5E780}.Debug|x64.Build.0 = Debug|x64
+		{793B4EF3-1A82-45AC-8819-D55C66B5E780}.Debug|x86.ActiveCfg = Debug|Win32
+		{793B4EF3-1A82-45AC-8819-D55C66B5E780}.Debug|x86.Build.0 = Debug|Win32
+		{793B4EF3-1A82-45AC-8819-D55C66B5E780}.Release|x64.ActiveCfg = Release|x64
+		{793B4EF3-1A82-45AC-8819-D55C66B5E780}.Release|x64.Build.0 = Release|x64
+		{793B4EF3-1A82-45AC-8819-D55C66B5E780}.Release|x86.ActiveCfg = Release|Win32
+		{793B4EF3-1A82-45AC-8819-D55C66B5E780}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69C01757-BA85-410A-AD43-97C46E093FC2}
+	EndGlobalSection
+EndGlobal
